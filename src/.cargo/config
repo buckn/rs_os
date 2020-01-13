@@ -1,0 +1,7 @@
+# in .cargo/config
+
+[build]
+target = "os_cfg.json"
+
+[target.'cfg(target_os = "none")']
+runner = "bootimage runner"
