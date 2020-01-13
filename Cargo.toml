@@ -1,5 +1,5 @@
 [package]
-name = "rust_binary"
+name = "rs_os"
 version = "0.1.0"
 authors = ["Author Name <author@example.com>"]
 
